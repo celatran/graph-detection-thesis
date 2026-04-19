@@ -3,7 +3,7 @@
 LINK DATA 
 https://drive.google.com/file/d/1RjB2wOurKOX4RX4yJYXYV4wVy5bhQ29M/view?usp=sharing
 
-LINK DÂT KAGGLE
+LINK DATA KAGGLE
 https://www.kaggle.com/datasets/ellipticco/elliptic-data-set
 
 Data nặng quá ko tải được ạ huhu
